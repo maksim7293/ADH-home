@@ -1,0 +1,92 @@
+! Custom AdGuard Home Blocklist
+! Safe Edition v1
+
+! Ads
+||amazon-adsystem.com^
+||advertising-api-eu.amazon.com^
+||pagead2.googlesyndication.com^
+||pubads.g.doubleclick.net^
+||securepubads.g.doubleclick.net^
+||adservice.google.com^
+||adcolony.com^
+||criteo.com^
+||criteo.net^
+||taboola.com^
+||outbrain.com^
+||media.net^
+||adnxs.com^
+||pubmatic.com^
+||openx.net^
+||rubiconproject.com^
+||indexexchange.com^
+||casalemedia.com^
+||applovin.com^
+||unityads.unity3d.com^
+||chartboost.com^
+||fyber.com^
+||inmobi.com^
+||ironsource.mobi^
+||vungle.com^
+||liftoff.io^
+||smartyads.com^
+||contextweb.com^
+||sharethrough.com^
+||stackadapt.com^
+||gumgum.com^
+||teads.tv^
+||kargo.com^
+||adroll.com^
+||doubleverify.com^
+||adsafeprotected.com^
+
+! Analytics
+||google-analytics.com^
+||googletagmanager.com^
+||app-measurement.com^
+||clarity.ms^
+||hotjar.com^
+||mouseflow.com^
+||mixpanel.com^
+||amplitude.com^
+||segment.com^
+||posthog.com^
+||fullstory.com^
+||quantserve.com^
+||quantcast.com^
+||scorecardresearch.com^
+||cloudflareinsights.com^
+||fingerprintjs.com^
+||rudderstack.com^
+||snowplowanalytics.com^
+
+! Mobile attribution
+||appsflyer.com^
+||adjust.com^
+||branch.io^
+||kochava.com^
+||singular.net^
+
+! OEM ads
+||ads.huawei.com^
+||api.ad.xiaomi.com^
+||tracking.miui.com^
+||tracking.rus.miui.com^
+||samsungads.com^
+||us.info.lgsmartad.com^
+||ads.roku.com^
+||advertising.apple.com^
+||api-adservices.apple.com^
+
+! Crypto miners
+||coinimp.com^
+||monerominer.rocks^
+
+! Intentionally NOT blocked:
+! youtubei.googleapis.com
+! redirector.googlevideo.com
+! graph.facebook.com
+! connect.facebook.net
+! graph.instagram.com
+! api.onesignal.com
+! metrics.icloud.com
+! grs.hicloud.com
